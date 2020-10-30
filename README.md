@@ -13,3 +13,4 @@ pip install requests or python -m pip install requests
 Usage
 The first time you run the script, it will prompt for your OAuth. You want the string after "oauth:".
 This is stored in "oauth.txt", in the same path as you run your script.
+Use twitch.tv to get your token ID.
