@@ -4,8 +4,7 @@ This is a simple project to view live streamers on TWITCH.TV
 A Python script that uses Twitch.tv API to check if a user's followed channels are live.
 
 Installation:
-Clone the repository https://github.com/chiragbali1910/WOTSonTWITCH.git 
-Or download : https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chiragbali1910/WOTSonTWITCH.git
+Clone the repository https://github.com/chiragbali1910/WOTSonTWITCH.git or download the zip file.
 
 Dependencies
 The script uses the 'requests' package in Python:
