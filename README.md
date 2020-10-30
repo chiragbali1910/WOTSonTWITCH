@@ -1,5 +1,5 @@
 # WOTSonTWITCH
-This is a simple project to view live streamers on TWITCH.TV
+This is a simple project to view live streamers on twitch.py / live.py 
 
 A Python script that uses Twitch.tv API to check if a user's followed channels are live.
 
